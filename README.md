@@ -9,7 +9,10 @@ Saat kamera mengenali *marker* gambar tersebut, sebuah model makanan 3D akan lan
 ---
 ## 📱 Demo Aplikasi
 
-
+![Image](https://github.com/user-attachments/assets/e8a332f4-2c72-487f-9997-69490056a9f6)
+![Image](https://github.com/user-attachments/assets/5379e06d-9577-48a2-9b12-0bce7f6801aa)
+![Image](https://github.com/user-attachments/assets/849fe593-b6cb-4719-99b0-774e834cb8a6)
+![Image](https://github.com/user-attachments/assets/facfd713-a4af-4bd4-b05a-3a0c19bacef8)
 
 ---
 ## ✨ Fitur Utama
@@ -36,10 +39,10 @@ Untuk mencoba aplikasi, arahkan kamera Anda ke salah satu dari empat gambar di b
 
 | Menu | Gambar Marker |
 | :--- | :--- |
-| **Nasi Lemak** | ![Nasi Lemak](markers/nasi%20lemak.jpg) |
-| **Onigiri** | ![Onigiri](markers/onigiri.jpg) |
-| **Grilled Sandwich**| ![Grilled Sandwich](markers/grilled%20sandwic.jpg) |
-| **Chicken Paprika** | ![Chicken Paprika](markers/chicken%20paprika.jpg) |
+| **Nasi Lemak** | ![Image](https://github.com/user-attachments/assets/ca0c39ab-4d18-438b-b7bd-71c2864773ad) |
+| **Onigiri** | ![Image](https://github.com/user-attachments/assets/e5439adc-acf4-4317-bb8e-ff7d2afe84c6) |
+| **Grilled Sandwich**| ![Image](https://github.com/user-attachments/assets/8719f3bf-eabd-42e1-a1a4-920763b0f85d) |
+| **Chicken Paprika** | ![Image](https://github.com/user-attachments/assets/867f16d7-51a9-4863-ab7b-77a204c0da7c) |
 
 ---
 
@@ -105,3 +108,13 @@ Cara ini me-streaming tampilan Editor ke ponsel Anda.
 4.  Pada bagian `Device`, ubah menjadi **"Any Android Device"**.
 5.  Hubungkan ponsel Anda ke PC dengan kabel USB.
 6.  Tekan tombol **Play** (▶) di Unity Editor.
+
+---
+
+## 👤 Informasi Penulis
+
+* **Nama:** Ega Sulanjana
+* **Kelas:** TIF PK 23 CID
+* **Kampus:** Universitas Teknologi Bandung
+* **Mata Kuliah:** Augmented & Virtual Reality
+* **Dosen Pengampu:** Andri Nugraha Ramdhon, S.Kom., M.Kom.
