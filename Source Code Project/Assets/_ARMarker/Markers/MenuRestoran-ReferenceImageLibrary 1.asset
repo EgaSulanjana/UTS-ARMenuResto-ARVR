@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MenuRestoran-ReferenceImageLibrary 1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4797387223391552096
+  m_GuidHigh: 9415408465741183140
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4625672890462150095
+      m_GuidHigh: 11101814552646206868
+    m_SerializedTextureGuid:
+      m_GuidLow: 3131164306473357118
+      m_GuidHigh: 14995545055835832776
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: onigiri
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5324269981640541076
+      m_GuidHigh: 11899903185209077164
+    m_SerializedTextureGuid:
+      m_GuidLow: 16223297662289458477
+      m_GuidHigh: 4718336683596350968
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: grilled sandwic
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5444995428381525565
+      m_GuidHigh: 13818783974632070016
+    m_SerializedTextureGuid:
+      m_GuidLow: 17547324557363484668
+      m_GuidHigh: 17432960703548214296
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: nasi lemak
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5656471115505552189
+      m_GuidHigh: 15433732899511152063
+    m_SerializedTextureGuid:
+      m_GuidLow: 3712099436871562266
+      m_GuidHigh: 10617247090070690953
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: chicken paprika
+    m_Texture: {fileID: 0}
